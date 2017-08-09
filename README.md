@@ -12,7 +12,7 @@ Keep in mind, that you are going to start 8 Spring Boot applications and RabbitM
 #### Before you start
 - Install Docker and Docker Compose (quite important).
 
-- Create docker network: docker network create jBoardNetwork_default
+- Create docker network: run in command shell `docker network create jBoardNetwork_default`
     
 
 #### Development mode
